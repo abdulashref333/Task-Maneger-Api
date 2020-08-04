@@ -1,0 +1,43 @@
+body{
+    background-color: darkkhaki;
+}
+h2{
+    color:#333333;
+}
+.log-form{
+    background-color: lightcyan;
+    width: 350px;
+    margin:auto;
+    margin-top: 70px;
+    padding:100px 100px;
+    position: relative;
+    border:1px lightseagreen dashed;
+}
+form{
+    padding: 40px;
+    border:1px lightseagreen dashed;
+    
+}
+input{
+    margin: 16px;
+    width: 200px;
+    height: 40px;
+    border:1px lightseagreen solid;
+}
+button{
+    background-color: lightgreen;
+    color:#333333;
+    margin: 20px;
+    margin-top: 16px;
+    width: 200px;
+    height: 40px;
+    border:1px lightseagreen solid;
+    font-size: large;
+    cursor: pointer;
+}
+
+h2{
+    margin: 16px;
+    margin-left: 45px;
+    color:green ;
+}
